@@ -13,15 +13,20 @@ def main(lexicon):
     output_CCCVC_lexicon = open(lexicon + "_CCCVC.csv", "w")
     output_CCCVC_html_ready = open(lexicon + "_CCCVC", "w")
 
+    output_CVCV_lexicon = open(lexicon + "_CVCV.csv", "w")
+    output_CVCV_html_ready = open(lexicon + "_CVCV", "w")
+
     CCCVC_lexicon = []
     CCVC_lexicon = []
     CVC_lexicon = []
+    CVCV_lexicon = []
     VC_lexicon = []
 
-    # aio}
+    # These patterns are incomplete. 
     CCCVC_pattern = re.compile("[^aVeEiIoO}]{3}[aVeEiIoO}][ptk?]$")
     CCVC_pattern = re.compile("[^aVeEiIoO}]{2}[aVeEiIoO}][ptk?]$")
     CVC_pattern = re.compile("[^aVeEiIoO}][aVeEiIoO}][ptk?]$")
+    CVCV_pattern = re.compile("[^aVeEiIoO}][aVeEiIoO}][ptk?][aVeEiIoO}]$")
     VC_pattern = re.compile("^[aVeEiIoO}][ptk?]$")
     gen_pattern = re.compile("[^aVeEiIoO}]{1,3}[aVeEiIoO}][ptk?]$")
 
