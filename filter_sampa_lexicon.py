@@ -22,6 +22,8 @@ def main(lexicon):
     CVCV_lexicon = []
     VC_lexicon = []
 
+    V = "[^]"
+
     # These patterns are incomplete. 
     CCCVC_pattern = re.compile("[^aVeEiIoO}]{3}[aVeEiIoO}][ptk?]$")
     CCVC_pattern = re.compile("[^aVeEiIoO}]{2}[aVeEiIoO}][ptk?]$")
