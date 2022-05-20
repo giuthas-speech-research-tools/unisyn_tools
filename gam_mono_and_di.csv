@@ -1,0 +1,140 @@
+word	pronunciation	frequency	vowel	syllables	pronunciation_stripped	C1	V1	C2	V2	C3	Cf
+ah	"A	229296	A	1	A		A				
+bab	"b{b	198	{	1	b{b	b	{	b			b
+bob	"bAb	15895	A	1	bAb	b	A	b			b
+dad	"d{d	83858	{	1	d{d	d	{	d			d
+dodd	"dAd	192	A	1	dAd	d	A	d			d
+deed	"did	2950	i	1	did	d	i	d			d
+dude	"dud	808	u	1	dud	d	u	d			d
+faff	"f{f	120	{	1	f{f	f	{	f			f
+fief	"fif	36	i	1	fif	f	i	f			f
+gag	"g{g	339	{	1	g{g	g	{	g			g
+e	"i	108963	i	1	i		i				
+cack	"k{k	150	{	1	k{k	k	{	k			k
+mom	"mAm	1343	A	1	mAm	m	A	m			m
+non	"nAn	7354	A	1	nAn	n	A	n			n
+noon	"nun	2294	u	1	nun	n	u	n			n
+pap	"p{p	366	{	1	p{p	p	{	p			p
+pop	"pAp	14644	A	1	pAp	p	A	p			p
+peep	"pip	775	i	1	pip	p	i	p			p
+poop	"pup	221	u	1	pup	p	u	p			p
+sass	"s{s	34	{	1	s{s	s	{	s			s
+cease	"sis	3257	i	1	sis	s	i	s			s
+sheesh	"SiS	32	i	1	SiS	S	i	S			S
+seuss	"sus	40	u	1	sus	s	u	s			s
+tat	"t{t	892	{	1	t{t	t	{	t			t
+tot	"tAt	449	A	1	tAt	t	A	t			t
+teat	"tit	55	i	1	tit	t	i	t			t
+toot	"tut	301	u	1	tut	t	u	t			t
+ooh	"u	131989	u	1	u		u				
+vive	"viv	68	i	1	viv	v	i	v			v
+z's	"ziz	123	i	1	ziz	z	i	z			z
+zoos	"zuz	106	u	1	zuz	z	u	z			z
+amman	"{$m{n	459	{	2	{m{n		{	m	{	n	n
+arrack	"{$r\{k	8	{	2	{r{k		{	r	{	k	k
+beatty	"bi$4i	214	i	2	bi4i	b	i	4	i		
+beaty's	"bi$4iz	2	i	2	bi4iz	b	i	4	i	z	z
+beady	"bi4$i	87	i	2	bi4i	b	i	4	i		
+beefy	"bif$i	133	i	2	bifi	b	i	f	i		
+beamy	"bim$i	58	i	2	bimi	b	i	m	i		
+beanie	"bin$i	6	i	2	bini	b	i	n	i		
+beanies	"bin$iz	3	i	2	biniz	b	i	n	i	z	z
+booboo	"bu$bu	1	u	2	bubu	b	u	b	u		
+boobooed	"bu$bud	0	u	2	bubud	b	u	b	u	d	d
+booboos	"bu$buz	0	u	2	bubuz	b	u	b	u	z	z
+dada	"dA$dA	298	A	2	dAdA	d	A	d	A		
+phoebe	"fi$bi	679	i	2	fibi	f	i	b	i		
+feeney	"fi$ni	1	i	2	fini	f	i	n	i		
+faeces	"fi$siz	66	i	2	fisiz	f	i	s	i	z	z
+fugu	"fu$gu	15	u	2	fugu	f	u	g	u		
+geeky	"gik$i	0	i	2	giki	g	i	k	i		
+healey	"hi$5i	486	i	2	hi5i	h	i	5	i		
+hebe	"hi$bi	33	i	2	hibi	h	i	b	i		
+hebes	"hi$biz	2	i	2	hibiz	h	i	b	i	z	z
+heathy	"hiT$i	9	i	2	hiTi	h	i	T	i		
+hoodoo	"hu$du	6	u	2	hudu	h	u	d	u		
+hutus	"hu$tuz	0	u	2	hutuz	h	u	t	u	z	z
+edie	"i$4i	484	i	2	i4i		i	4	i		
+ely	"i$5i	317	i	2	i5i		i	5	i		
+easy	"iz$i	51081	i	2	izi		i	z	i		
+keeney	"ki$ni	0	i	2	kini	k	i	n	i		
+kiwi	"ki$wi	159	i	2	kiwi	k	i	w	i		
+kiwis	"ki$wiz	36	i	2	kiwiz	k	i	w	i	z	z
+cuckoo	"ku$ku	628	u	2	kuku	k	u	k	u		
+cuckooed	"ku$kud	0	u	2	kukud	k	u	k	u	d	d
+cuckoos	"ku$kuz	20	u	2	kukuz	k	u	k	u	z	z
+leahy	"li$hi	25	i	2	lihi	l	i	h	i		
+leahy's	"li$hiz	0	i	2	lihiz	l	i	h	i	z	z
+lenes	"li$niz	0	i	2	liniz	l	i	n	i	z	z
+lethe	"li$Ti	47	i	2	liTi	l	i	T	i		
+leafy	"lif$i	362	i	2	lifi	l	i	f	i		
+leaky	"lik$i	146	i	2	liki	l	i	k	i		
+lulu	"lu$5u	177	u	2	lu5u	l	u	5	u		
+mimi	"mi$mi	47	i	2	mimi	m	i	m	i		
+mimis	"mi$miz	0	i	2	mimiz	m	i	m	i	z	z
+meaty	"mi4$i	253	i	2	mi4i	m	i	4	i		
+mealy	"mi5$i	105	i	2	mi5i	m	i	5	i		
+meany	"min$i	26	i	2	mini	m	i	n	i		
+meanies	"min$iz	4	i	2	miniz	m	i	n	i	z	z
+neilly	"ni$5i	0	i	2	ni5i	n	i	5	i		
+needy	"ni4$i	534	i	2	ni4i	n	i	4	i		
+peaty	"pi4$i	11	i	2	pi4i	p	i	4	i		
+peaky	"pik$i	34	i	2	piki	p	i	k	i		
+peepy	"pip$i	1	i	2	pipi	p	i	p	i		
+poo-poo	"pu$pu	6	u	2	pupu	p	u	p	u		
+poo-pooed	"pu$pud	1	u	2	pupud	p	u	p	u	d	d
+poo-poos	"pu$puz	0	u	2	pupuz	p	u	p	u	z	z
+ramos	"r\A$mAs	155	A	2	rAmAs	r	A	m	A	s	s
+reedy	"r\i4$i	68	i	2	ri4i	r	i	4	i		
+reeky	"r\ik$i	3	i	2	riki	r	i	k	i		
+sealy	"si$5i	96	i	2	si5i	s	i	5	i		
+sheehy	"Si$hi	56	i	2	Sihi	S	i	h	i		
+seaweed	"si$wid	396	i	2	siwid	s	i	w	i	d	d
+seedy	"si4$i	280	i	2	si4i	s	i	4	i		
+sheety	"Si4$i	0	i	2	Si4i	S	i	4	i		
+seamy	"sim$i	25	i	2	simi	s	i	m	i		
+sheeny	"Sin$i	18	i	2	Sini	S	i	n	i		
+sheepy	"Sip$i	0	i	2	Sipi	S	i	p	i		
+tea-leaf	"ti$lif	2	i	2	tilif	t	i	l	i	f	f
+teeny	"ti$ni	649	i	2	tini	t	i	n	i		
+teepee	"ti$pi	130	i	2	tipi	t	i	p	i		
+teepees	"ti$piz	38	i	2	tipiz	t	i	p	i	z	z
+theses	"Ti$siz	92	i	2	Tisiz	T	i	s	i	z	z
+two-room	"tu$r\um	17	u	2	turum	t	u	r	u	m	m
+tutu	"tu$tu	106	u	2	tutu	t	u	t	u		
+tutus	"tu$tuz	15	u	2	tutuz	t	u	t	u	z	z
+vichy	"vi$Si	24	i	2	viSi	v	i	S	i		
+voodoo	"vu$du	77	u	2	vudu	v	u	d	u		
+voodoos	"vu$duz	1	u	2	vuduz	v	u	d	u	z	z
+											
+											
+											
+											
+											
+weedy	"wi4$i	198	i	2	wi4i	w	i	4	i		
+wheaties	"Wi4$iz	10	i	2	Wi4iz	W	i	4	i	z	z
+wheelie	"Wi5$i	330	i	2	Wi5i	W	i	5	i		
+wheelies	"Wi5$iz	90	i	2	Wi5iz	W	i	5	i	z	z
+weepy	"wip$i	133	i	2	wipi	w	i	p	i		
+weepies	"wip$iz	2	i	2	wipiz	w	i	p	i	z	z
+wheezy	"Wiz$i	177	i	2	Wizi	W	i	z	i		
+zulu	"zu$5u	248	u	2	zu5u	z	u	5	u		
+zulus	"zu$5uz	48	u	2	zu5uz	z	u	5	u	z	z
+alain	{"l{n	147	{	2	{l{n		{	l	{	n	n
+assam	{"s{m	97	{	2	{s{m		{	s	{	m	m
+laurent	5A"r\An	114	A	2	5ArAn	5	A	r	A	n	n
+aha	A"hA	73760	A	2	AhA		A	h	A		
+hehe	hi"hi	0	i	2	hihi	h	i	h	i		
+knee-deep	ni"dip	49	i	2	nidip	n	i	d	i	p	p
+pooh-pooh	pu"pu	9	u	2	pupu	p	u	p	u		
+pooh-poohed	pu"pud	105	u	2	pupud	p	u	p	u	d	d
+pooh-poohs	pu"puz	5	u	2	pupuz	p	u	p	u	z	z
+ratan	r\{"t{n	1	{	2	r{t{n	r	{	t	{	n	n
+rattan	r\{"t{n	15	{	2	r{t{n	r	{	t	{	n	n
+reheat	r\i"hit	63	i	2	rihit	r	i	h	i	t	t
+rekeyed	r\i"kid	2	i	2	rikid	r	i	k	i	d	d
+re-read	r\i"r\id	154	i	2	ririd	r	i	r	i	d	d
+reseal	r\i"si5	31	i	2	risi5	r	i	s	i	5	5
+reseed	r\i"sid	2	i	2	risid	r	i	s	i	d	d
+reseat	r\i"sit	1	i	2	risit	r	i	s	i	t	t
+toulouse	tu"luz	70	u	2	tuluz	t	u	l	u	z	z
