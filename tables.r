@@ -1,5 +1,5 @@
 
-words = read.csv("gam_mono_and_di.csv", sep="\t", quote="")
+words = read.csv("stimulus_selection/gam_mono_and_di.csv", sep="\t", quote="")
 names(words)
 
 
