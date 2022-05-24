@@ -4,11 +4,14 @@ names(words)
 
 # Check for duplicates and (near) homophones.
 words[duplicated(words$word),]
+dim(words[duplicated(words$word),])[1]
+
 words[duplicated(words$pronunciation_stripped),]
+dim(words[duplicated(words$pronunciation_stripped),])[1]
 
 xtabs(~V1+V2+syllables, data=words)
 
-xtabs(~V1+C2+syllables, data=words)
+xtabs(~C1+C2+syllables, data=words)
 
 xtabs(~syllables+C1, data=words)
 xtabs(~syllables+Cf, data=words)
