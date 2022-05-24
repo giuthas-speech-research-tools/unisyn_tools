@@ -43,6 +43,9 @@ def main(lexicon):
     exclusion_pattern = re.compile("[bmpwW]")
 
     CV_pattern = re.compile("^" + C + V + "$")
+
+    # the '?' allows the consonts to either be singletons or not present
+    # it specifically excludes clusters
     monosyllable_pattern = re.compile("^" + C + '?' + V + C + '?' + "$")
     disyllable_pattern = re.compile("^" + C + '?' + V + C + V + C + '?' + "$")
 
