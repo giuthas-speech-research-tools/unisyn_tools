@@ -1,3 +1,4 @@
+library('xtable')
 
 words = read.csv("stimulus_selection/gam_mono_and_disyllables.csv", sep="\t", quote="")
 names(words)
@@ -26,3 +27,6 @@ xtabs(~C1, data=words, syllables == 2 & V1 == 'i')
 xtabs(~C2, data=words, syllables == 2 & V1 == 'i')
 
 sum(xtabs(~syllables+C1, data=words))
+
+# this is broken, it outputs wrong labels but correct numbers
+xtable(xtabs(~syllables+C1, data=words))
