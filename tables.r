@@ -30,3 +30,7 @@ sum(xtabs(~syllables+C1, data=words))
 
 # this is broken, it outputs wrong labels but correct numbers
 xtable(xtabs(~syllables+C1, data=words))
+
+xtableFtable(ftable(C1~syllables, data=words), method='compact')
+
+xtable(as.matrix(xtabs(~syllables+C1, data=words)))
